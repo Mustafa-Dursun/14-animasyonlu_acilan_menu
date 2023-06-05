@@ -29,7 +29,7 @@
 nav{
     background-color: #fff;
     padding: 20px;
-    width: 8vw;
+    width: 7vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -99,6 +99,8 @@ nav ul li a{
     top: auto;
     bottom: 20px;
 }
+
+
 
 nav.active .icon .line1{
     transform: rotate(-765deg) translateY(5.5px);
